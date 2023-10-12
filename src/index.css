@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-image: url(./assets/pexels-codioful-\(formerly-gradienta\)-7130560.jpg);
+  background-attachment: fixed;
+}
